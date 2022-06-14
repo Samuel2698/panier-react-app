@@ -1,3 +1,3 @@
 # panier-react-app
 
-App en construction. 
+Panier d'un e-commerce construit avec React et TypeScript.
