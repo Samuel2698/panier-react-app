@@ -10,6 +10,6 @@ export const StyledButton = styled(IconButton)`
     z-index: 100;
     right: 10px;
     top: 10px;
-    padding: 10px;
+    padding: 11px;
 `
 
